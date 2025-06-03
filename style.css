@@ -3,7 +3,7 @@
     --cafe: #5D4037;
     --creme: #FFF8E1;
     --branco: #FFFFFF;
-    --verde:#4CAF50;
+    --verde:#266028;
     --fonte-principal: "Quattrocento Sans";
 }
 
@@ -103,7 +103,7 @@ a {
 }
 
 .container-principal h1 {
-    color: #4CAF50;
+    color: #266028;
     margin-top: 20px;
 }
 
