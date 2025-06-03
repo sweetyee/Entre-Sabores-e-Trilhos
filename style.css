@@ -1,8 +1,9 @@
 :root {
     font-size: 16px;
-    --verde: #5D4037;
-    --bege: #FFF8E1;
+    --cafe: #5D4037;
+    --creme: #FFF8E1;
     --branco: #FFFFFF;
+    --verde:#4CAF50;
     --fonte-principal: "Quattrocento Sans";
 }
 
@@ -19,7 +20,7 @@
 
 body {
     font-family: var(--fonte-principal);
-    background-color: var(--bege);
+    background-color: var(--creme);
 }
 
 a {
@@ -28,7 +29,7 @@ a {
 }
 
 .header {
-    background-color: var(--verde);
+    background-color: var(--cafe);
     height: 4.6875rem;
     padding: 1rem 2rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
