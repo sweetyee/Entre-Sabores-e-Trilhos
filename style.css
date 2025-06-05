@@ -153,6 +153,7 @@ a {
     box-shadow: 0 0 10px #57A663;
     overflow: hidden;
     display: inline-block;
+    vertical-align: top;
 }
 
 .new-card img {
