@@ -192,8 +192,7 @@ a {
     object-fit: cover; 
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    display: block;
-    margin-bottom: 5px; 
+    display: block; 
 }
 
 .food-card-text {
@@ -229,53 +228,24 @@ a {
     background-color: var(--bege);
     padding: 20px;
     margin-top: 30px;
-    display: flex;
-    justify-content: center; 
 }
 
-.icone-casa img {
+.icone-casa img,
+.icone-seta img {
     width: 100%;
     height: auto;
-    transition: transform 0.2s; 
 }
 
 .icone-casa {
-    position: relative; 
-}
-
-.icone-casa .tooltip-text {
-    visibility: hidden;
-    width: 80px; 
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    border-radius: 4px;
-    padding: 5px;
     position: absolute;
-    z-index: 1000;
-    bottom: 100%; 
-    left: 50%;
-    transform: translateX(-50%);
-    opacity: 0;
-    transition: opacity 0.3s;
-    font-size: 12px;
-}
-
-
-.icone-casa:hover .tooltip-text {
-    visibility: visible;
-    opacity: 1;
-}
-
-.icone-casa .tooltip-text::after {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: #333 transparent transparent transparent;
+    bottom: 5px;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+    left: 20px;
 }
 
 .icone-seta {
