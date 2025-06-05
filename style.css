@@ -5,7 +5,6 @@
     --branco: #FFFFFF;
     --cafecoado: #4e322a;
     --verde: #04630f;
-;
     --fonte-principal: "Quattrocento Sans";
 }
 
@@ -105,7 +104,12 @@ a {
 }
 
 .container-principal h1 {
-    color: #266028;
+    color: var(--verde);
+    margin-top: 20px;
+}
+
+.container-principal h2 {
+    color: var(--cafecoado);
     margin-top: 20px;
 }
 
