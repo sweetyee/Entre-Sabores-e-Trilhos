@@ -483,7 +483,7 @@ a {
         position: absolute;
         top: 4.6875rem;
         right: 0;
-        background-color: var(--verde);
+        background-color: var(--cafecoado);
         width: 100%;
         height: calc(100vh - 4.6875rem);
         z-index: 1;
