@@ -231,6 +231,42 @@ a {
     margin-top: 30px;
 }
 
+/* Estilo do botão */
+.tooltip-btn {
+    position: relative; /* Permite que o tooltip seja posicionado em relação ao botão */
+    padding: 10px 20px;
+    background-color: #57A663;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* Estilo do tooltip (inicialmente invisível) */
+.tooltip-text {
+    visibility: hidden;
+    width: 120px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%; /* Posiciona o tooltip acima do botão */
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+/* Tooltip visível ao passar o mouse */
+.tooltip-btn:hover .tooltip-text {
+    visibility: visible;
+    opacity: 1;
+}
+
 .icone-casa img,
 .icone-seta img {
     width: 100%;
