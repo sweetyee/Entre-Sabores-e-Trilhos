@@ -151,8 +151,8 @@ a {
 
 .container-principal li {
     margin-right: 8px;
-    margin-top: 0.5px;
-    margin-bottom: 0.5px;
+    margin-top: 0; /* Changed from 0.5px to 0 */
+    margin-bottom: 0; /* Changed from 0.5px to 0 */
     color: var(--verde);
     transition: all 0.3s ease; /* Suaviza as transições */
 }
