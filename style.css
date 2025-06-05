@@ -150,13 +150,11 @@ a {
 }
 
 .container-principal li {
-    margin-bottom: 15px;
-    padding: 10px;
+    margin-right: 8px;
+    margin-top: 0.5px;
+    margin-bottom: 0.5px;
+    color: var(--verde);
     transition: all 0.3s ease; /* Suaviza as transições */
-}
-
-.container-principal li:hover {
-     transform: translateX(5px); 
 }
 
 .container-principal a {
@@ -168,13 +166,6 @@ a {
 
 .container-principal a:hover {
     color: var(--verde); 
-}
-
-.container-principal li::before {
-    margin-right: 8px;
-    margin-top: 0.5px;
-    margin-bottom: 0.5px;
-    color: var(--verde);
 }
 
 .container {
