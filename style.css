@@ -144,7 +144,6 @@ a {
     color: #1254e4d6;
 }
 
-
 .new-card {
     width: calc(23.33% - 20px);
     margin: 10px;
@@ -153,16 +152,12 @@ a {
     box-shadow: 0 0 10px #57A663;
     overflow: hidden;
     display: inline-block;
-    vertical-align: top;
 }
 
 .new-card img {
     width: 100%;
-    height: 180px; 
-    object-fit: cover; 
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    display: block; 
 }
 
 .new-card-text {
