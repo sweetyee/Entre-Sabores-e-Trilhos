@@ -229,60 +229,53 @@ a {
     background-color: var(--bege);
     padding: 20px;
     margin-top: 30px;
+    display: flex;
+    justify-content: center; 
 }
 
-/* Estilo do botão */
-.tooltip-btn {
-    position: relative; /* Permite que o tooltip seja posicionado em relação ao botão */
-    padding: 10px 20px;
-    background-color: #57A663;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 16px;
+.icone-casa img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.2s; 
 }
 
-/* Estilo do tooltip (inicialmente invisível) */
-.tooltip-text {
+.icone-casa {
+    position: relative; 
+}
+
+.icone-casa .tooltip-text {
     visibility: hidden;
-    width: 120px;
+    width: 80px; 
     background-color: #333;
     color: #fff;
     text-align: center;
-    border-radius: 6px;
+    border-radius: 4px;
     padding: 5px;
     position: absolute;
-    z-index: 1;
-    bottom: 125%; /* Posiciona o tooltip acima do botão */
+    z-index: 1000;
+    bottom: 100%; 
     left: 50%;
     transform: translateX(-50%);
     opacity: 0;
     transition: opacity 0.3s;
+    font-size: 12px;
 }
 
-/* Tooltip visível ao passar o mouse */
-.tooltip-btn:hover .tooltip-text {
+
+.icone-casa:hover .tooltip-text {
     visibility: visible;
     opacity: 1;
 }
 
-.icone-casa img,
-.icone-seta img {
-    width: 100%;
-    height: auto;
-}
-
-.icone-casa {
+.icone-casa .tooltip-text::after {
+    content: "";
     position: absolute;
-    bottom: 5px;
-    width: 60px;
-    height: 60px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 999;
-    left: 20px;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #333 transparent transparent transparent;
 }
 
 .icone-seta {
