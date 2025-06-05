@@ -44,5 +44,5 @@ Desenvolvi este site como uma forma de levar conhecimento para outras pessoas, e
 
 ---
 
-<p align="center">🏆<strong>Eu nunca perco! Eu ganho ou aprendo!</strong>🏆</p>
-#agrinho
+<p align="center">🏆<strong>#agrinho</strong>🏆</p>
+
