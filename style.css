@@ -177,27 +177,61 @@ a {
 }
 
 
-.food-card {
-    width: calc(23.33% - 20px);
-    overflow: hidden;
-    display: inline-block;
-    vertical-align: top; 
-    text-align: center; /* Garante centralização geral */
+.products-grid { /* Changed from .container to .products-grid */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
 }
 
-.food-card img {
+.products-grid .food-card { /* Target food-card within products-grid */
+    flex: 1 1 calc(25% - 20px);
+    max-width: calc(25% - 20px);
+    overflow: hidden;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.products-grid .food-card img { /* Target img within food-card within products-grid */
     width: 180px;
     height: 180px;
     object-fit: cover;
     display: block;
-    margin: 0 auto; /* Centraliza horizontalmente */
-    border-radius: 50%; /* Deixa a imagem redonda */
+    margin: 0 auto;
+    border-radius: 50%;
 }
 
-.food-card-text h2 {
+.products-grid .food-card-text h2 { /* Target h2 within food-card-text within products-grid */
     margin-top: 0.5rem;
     text-align: center;
     color: var(--verde);
+}
+
+/* --- Media Queries --- */
+
+/* For screens smaller than 1024px (e.g., tablets) */
+@media (max-width: 1024px) {
+    .products-grid .food-card {
+        flex: 1 1 calc(33.33% - 20px); /* 3 columns */
+        max-width: calc(33.33% - 20px);
+    }
+}
+
+/* For screens smaller than 768px (e.g., larger phones) */
+@media (max-width: 768px) {
+    .products-grid .food-card {
+        flex: 1 1 calc(50% - 20px); /* 2 columns */
+        max-width: calc(50% - 20px);
+    }
+}
+
+/* For screens smaller than 480px (e.g., most mobile phones) */
+@media (max-width: 480px) {
+    .products-grid .food-card {
+        flex: 1 1 calc(100% - 20px); /* 1 column */
+        max-width: calc(100% - 20px);
+    }
 }
 
 
