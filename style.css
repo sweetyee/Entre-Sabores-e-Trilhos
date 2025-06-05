@@ -161,7 +161,7 @@ a {
 
 .container-principal a {
     text-decoration: none;
-    color: #333;
+    color: #1ef2e7;
     font-weight: 500;
     display: block; /
 }
@@ -171,7 +171,6 @@ a {
 }
 
 .container-principal li::before {
-    content: "🔗";
     margin-right: 8px;
     color: var(--verde);
 }
