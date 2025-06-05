@@ -190,13 +190,10 @@ a {
     display: block; 
 }
 
-.food-card-text {
-    padding: 10px;
-    text-align: center;
-}
-
 .food-card-text h2 {
     margin-bottom: 0.5rem;
+    text-align: center;
+    color: var(--verde);
 }
 
 .btn-saiba-mais {
