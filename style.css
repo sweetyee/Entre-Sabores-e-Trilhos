@@ -177,10 +177,7 @@ a {
 }
 
 
-.products-grid { /* Changed from .container to .products-grid */
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+ustify-content: center;
     gap: 20px;
     padding: 20px;
 }
@@ -206,6 +203,12 @@ a {
     margin-top: 0.5rem;
     text-align: center;
     color: var(--verde);
+}
+
+.products-grid .food-card a {
+    text-decoration: none; /* remove o sublinhado do link */
+    color: inherit; /* mantém a cor padrão do texto */
+    display: block; /* faz o link ocupar todo o espaço do card */
 }
 
 /* --- Media Queries --- */
