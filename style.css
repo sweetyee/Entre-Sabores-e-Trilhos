@@ -181,20 +181,24 @@ a {
     overflow: hidden;
     display: inline-block;
     vertical-align: top; 
+    text-align: center; /* Garante centralização geral */
 }
 
 .food-card img {
     width: 180px;
     height: 180px;
-    object-fit: cover; 
-    display: block; 
+    object-fit: cover;
+    display: block;
+    margin: 0 auto; /* Centraliza horizontalmente */
+    border-radius: 50%; /* Deixa a imagem redonda */
 }
 
 .food-card-text h2 {
-    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
     text-align: center;
     color: var(--verde);
 }
+
 
 .btn-saiba-mais {
     display: inline-block;
