@@ -143,6 +143,38 @@ a {
     margin-top: 20px;
 }
 
+.container-principal ul {
+    list-style-type: none; /* Remove os marcadores padrão */
+    padding: 0;
+    margin: 20px 0;
+}
+
+.container-principal li {
+    margin-bottom: 15px;
+    padding: 10px;
+    transition: all 0.3s ease; /* Suaviza as transições */
+}
+
+.container-principal li:hover {
+     transform: translateX(5px); 
+}
+
+.container-principal a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    display: block; /
+}
+
+.container-principal a:hover {
+    color: var(--verde); 
+}
+
+.container-principal li::before {
+    content: "🔗";
+    margin-right: 8px;
+    color: var(--verde);
+}
 
 .container {
     display: flex;
