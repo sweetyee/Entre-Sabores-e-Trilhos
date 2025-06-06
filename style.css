@@ -20,7 +20,7 @@
     margin-top: 20px;
     margin-bottom: 2px;
     font-size: 1.2em;
-    text-align: center; 
+    text-align: center; /* Centraliza o título */
 }
 
 .referencias ul {
@@ -28,13 +28,13 @@
     margin: 0 auto; 
     max-width: 80%; 
     list-style-position: inside; 
-    text-align: left; 
+    text-align: center; 
 }
 
 .referencias li {
     margin-bottom: 0px;
     line-height: 1.4;
-    text-align: left; 
+    text-align: center; 
     padding-left: 0; 
 }
 
