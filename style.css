@@ -18,30 +18,33 @@
 .referencias h3 {
     color: var(--cafecoado);
     margin-top: 20px;
-    margin-bottom: 2px;
+    margin-bottom: 10px;  /* Aumentei para dar mais espaço */
     font-size: 1.2em;
-    text-align: center; /* Centraliza o título */
+    text-align: center;
 }
 
 .referencias ul {
-    padding-left: 0; 
-    margin: 0 auto; 
-    max-width: 80%; 
-    list-style-position: inside; 
-    text-align: center; 
+    padding-left: 0;
+    margin: 0 auto;
+    max-width: 80%;
+    display: flex;          /* Novo */
+    flex-direction: column; /* Novo */
+    align-items: center;    /* Novo */
+    list-style: none;       /* Remove marcadores */
 }
 
 .referencias li {
-    margin-bottom: 0px;
+    margin-bottom: 2px;     /* Espaço entre itens */
     line-height: 1.4;
-    text-align: justify; 
-    padding-left: 0; 
+    text-align: center;     /* Removido justify */
+    width: 100%;            /* Garante alinhamento */
 }
 
 .referencias a {
     color: #2980b9;
     text-decoration: underline;
     transition: color 0.3s;
+    display: inline-block;  /* Melhor controle */
 }
 
 .referencias a:hover {
