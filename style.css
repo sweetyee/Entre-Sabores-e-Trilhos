@@ -38,6 +38,7 @@
     line-height: 1.4;
     text-align: center;     /* Removido justify */
     width: 100%;            /* Garante alinhamento */
+    color: #2980b9;
 }
 
 .referencias a {
