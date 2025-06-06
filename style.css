@@ -25,11 +25,13 @@
 .referencias ul {
     padding-left: 20px;
     margin: 0;
+    text-align: center;
 }
 
 .referencias li {
     margin-bottom: 0px;
     line-height: 1.4;
+    text-align: justify;
 }
 
 .referencias a {
