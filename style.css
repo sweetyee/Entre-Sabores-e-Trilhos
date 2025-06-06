@@ -18,7 +18,7 @@
 .referencias h3 {
     color: var(--cafecoado);
     margin-top: 20px;
-    margin-bottom: 10px;  /* Aumentei para dar mais espaço */
+    margin-bottom: 10px;
     font-size: 1.2em;
     text-align: center;
 }
@@ -27,25 +27,27 @@
     padding-left: 0;
     margin: 0 auto;
     max-width: 80%;
-    display: flex;          /* Novo */
-    flex-direction: column; /* Novo */
-    align-items: center;    /* Novo */
-    list-style: none;       /* Remove marcadores */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+
 }
 
 .referencias li {
-    margin-bottom: 2px;     /* Espaço entre itens */
+    margin-bottom: 2px;
     line-height: 1.4;
-    text-align: center;     /* Removido justify */
-    width: 100%;            /* Garante alinhamento */
-    color: #2980b9;
+    text-align: justify;
+    width: 100%;
+
 }
 
 .referencias a {
     color: #2980b9;
     text-decoration: underline;
     transition: color 0.3s;
-    display: inline-block;  /* Melhor controle */
+    display: inline-block;
+
 }
 
 .referencias a:hover {
