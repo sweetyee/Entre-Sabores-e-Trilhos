@@ -1,5 +1,5 @@
 <!--Sessão do Título-->
-<h1 align="center">Olá Pessoal </h1>
+<h1 align="center">Olá Pessoal!!</h1>
 
 <p>
   <em>Sou estudante do Colégio Alfredo Parodi e me chamo Camili<br>
@@ -41,7 +41,7 @@ Desenvolvi este site como uma forma de levar conhecimento para outras pessoas, e
 https://sweetyee.github.io/agrinho-2025/
 
 <div>
- <img align="left" alt="imagem do site desenvolvido" src="./img/site.png" width="500">
+ <img align="left" alt="imagem do site desenvolvido" src="./img" width="500">
 </div>
 
 <br><br><br><br><br><br><br><br><br><br><br>
