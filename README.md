@@ -41,7 +41,7 @@ Desenvolvi este site como uma forma de levar conhecimento para outras pessoas, e
 https://sweetyee.github.io/agrinho-2025/
 
 <div>
- <img align="left" alt="imagem do site desenvolvido" src="./img" width="500">
+ <img align="left" alt="imagem do site desenvolvido" src="img./imagem do site.png" width="500">
 </div>
 
 <br><br><br><br><br><br><br><br><br><br><br>
