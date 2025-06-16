@@ -38,7 +38,7 @@ Desenvolvi esse site como uma forma de levar conhecimento para outras pessoas, e
 <br><br>
 O site é dividido em algumas partes, sendo elas: Alguns produtos produzidos no Paraná, A história da Ferrovia Paranaguá, comidas típicas do Paraná e alguns jogos para se divertir enquanto aprende.
 <br>
-(todas as imagens utilizadas foram geradas por mim através de inteligência artificial).
+(todas as imagens utilizadas foram geradas através de inteligência artificial).
 <br><br><br>
 
 ## Link do projeto 
