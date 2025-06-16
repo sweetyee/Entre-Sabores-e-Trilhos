@@ -34,10 +34,12 @@
 
 ## Detalhes do projeto
 
-Desenvolvi esse site como uma forma de levar conhecimento para outras pessoas, enquanto aprimoro minhas habilidades em HTML e CSS. Nele, utilizei os cohecimentos que venho aprendendo, como responsividade, mobile first e inclusão de textos alternativos para acessibilidade. O site foi criado com o propósito de contribuir com o projeto agrinho/2025 e levar conhecimento sobre de onde os alimentos vem e como chegam até nós. O site é dividido em algumas partes, sendo elas: Alguns produtos produzidos no Paraná, A história da Ferrovia Paranaguá, comidas típicas do Paraná e alguns jogos para se divertir enquanto aprende. (todas as imagens utilizadas foram geradas por mim através de inteligência artificial ) ^.^
-<br><br>
-O objetivo do projeto é deixer evidente a conexão direta que nossa cidade tem com o campo, para celebrar essa conexão precisamos primeiro que as pessoas consigam reconhecer ela. Consequentemente, a sociedade irá celebrar esse laço que é fundamental na nossa vida.  
+Desenvolvi esse site como uma forma de levar conhecimento para outras pessoas, enquanto aprimoro minhas habilidades em HTML e CSS. Nele, utilizei os cohecimentos que venho aprendendo, como responsividade, mobile first e inclusão de textos alternativos para acessibilidade. O site foi criado com o propósito de contribuir com o projeto agrinho/2025 e o objetivo do projeto é deixer evidente a conexão direta que nossa cidade tem com o campo, para celebrar essa conexão precisamos primeiro que as pessoas consigam reconhecer ela. Consequentemente, a sociedade irá celebrar esse laço que é fundamental na nossa vida. 
+<br>
+O site é dividido em algumas partes, sendo elas: Alguns produtos produzidos no Paraná, A história da Ferrovia Paranaguá, comidas típicas do Paraná e alguns jogos para se divertir enquanto aprende. 
+(todas as imagens utilizadas foram geradas por mim através de inteligência artificial ) ^.^
 <br><br><br>
+
 ## Link do projeto 
 https://sweetyee.github.io/agrinho-2025/
 
