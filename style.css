@@ -205,9 +205,9 @@ a {
 
 @media (max-width: 600px) {
       .descricao {
-        margin: 10px 5px 0 5px;
-        font-size: 14px;
-        padding: 12px;
+        margin: 5px 5px 0 5px;
+        font-size: 10px;
+        padding: 10px;
       }
       .map img {
     border: 5px solid #8B4513; 
