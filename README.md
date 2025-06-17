@@ -43,7 +43,7 @@ O site é dividido em algumas partes, sendo elas: Alguns produtos produzidos no 
 https://sweetyee.github.io/agrinho-2025/
 
 <div>
- <img align="left" alt="imagem do site desenvolvido" src="img./imagem do site.png" width="500">
+ <img align="left" alt="imagem do site desenvolvido" src="img./imagemdosite.png" width="500">
 </div>
 
 <br><br><br><br><br><br><br><br><br><br><br>
