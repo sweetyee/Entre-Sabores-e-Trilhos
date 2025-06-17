@@ -202,21 +202,11 @@ a {
     display: block;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
-
 @media (max-width: 600px) {
-      .descricao {
-        margin: 5px 5px 0 5px;
-        font-size: 10px;
-        padding: 10px;
-      }
-      .map img {
-    border: 5px solid #8B4513; 
-    border-radius: 15px; 
-    max-width: 100%; 
-    height: auto; 
-    display: block;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    }
+  .map img {
+    margin: 10px; /* margem em todos os lados */
+  }
+}
 
 .container {
     display: flex;
