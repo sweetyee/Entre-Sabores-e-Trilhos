@@ -203,6 +203,20 @@ a {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
+@media (max-width: 600px) {
+      .descricao {
+        margin: 10px 5px 0 5px;
+        font-size: 14px;
+        padding: 12px;
+      }
+      .map img {
+    border: 5px solid #8B4513; 
+    border-radius: 15px; 
+    max-width: 100%; 
+    height: auto; 
+    display: block;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
 
 .container {
     display: flex;
