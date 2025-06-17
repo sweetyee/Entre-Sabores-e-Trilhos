@@ -196,7 +196,7 @@ a {
 
 .map img {
     border: 5px solid #8B4513; 
-    border-radius: 5px; 
+    border-radius: 15px; 
     max-width: 100%; 
     height: auto; 
     display: block;
