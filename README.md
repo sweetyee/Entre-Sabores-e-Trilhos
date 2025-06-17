@@ -50,5 +50,5 @@ https://sweetyee.github.io/agrinho-2025/
 
 ---
 
-<p align="center">🏆<strong>#agrinho</strong>🏆</p>
+<p align="center">🏆<strong>#Agrinho2025</strong>🏆</p>
 
