@@ -486,7 +486,7 @@ a {
 
 @media (max-width: 600px) {
     .container-banner {
-        padding: 1.5rem;
+        padding: 1rem;
         font-size: 1.5rem;
 
     }
