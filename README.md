@@ -10,7 +10,7 @@
 
 Olá a todos!
 
-Meu nome é Camili, sou estudante do Colégio Alfredo Parodi e uma entusiasta da tecnologia e do desenvolvimento. Este site foi criado com grande dedicação para o concurso **Agrinho 2025**, com o propósito de **Festejar a Conexão Campo-Cidade no Paraná**.
+Meu nome é Camili, sou estudante do Colégio Alfredo Parodi e uma entusiasta da tecnologia e do desenvolvimento. Esse site foi criado com grande dedicação para o concurso **Agrinho 2025**, com o propósito de **Festejar a Conexão Campo-Cidade no Paraná**.
 
 Afinal, a cidade pulsa com o que o campo produz, e o campo evolui com o que a cidade oferece. Nosso objetivo principal é **tornar essa interdependência evidente**, convidando todos a reconhecerem e celebrarem esse laço fundamental em nosso cotidiano. Com este projeto, quero inspirar a valorização mútua e a gratidão por essa parceria essencial que faz do Paraná um estado único – onde o campo e a cidade caminham juntos.
 
