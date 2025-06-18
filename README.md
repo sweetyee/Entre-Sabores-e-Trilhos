@@ -63,4 +63,4 @@ Adoraria receber seu feedback e me conectar com outros entusiastas da tecnologia
 
 ---
 
-<p align="center">🏆<strong>#Agrinho2025 #FestejandoAConexaoCampoCidade</strong>🏆</p>
+<p align="center">🏆<strong>#agrinho #FestejandoAConexaoCampoCidade</strong>🏆</p>
