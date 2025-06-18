@@ -612,13 +612,13 @@ a {
 /* Media query para telas menores, como tablets e celulares */
 @media (max-width: 768px) {
     .container-banner {
-        height: 40vh;
+        height: 30vh;
     }
 }
 
 @media (max-width: 480px) {
     .container-banner {
-        height: 30vh;
+        height: 20vh;
         padding: 1rem;
 
     }
