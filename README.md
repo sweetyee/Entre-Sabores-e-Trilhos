@@ -2,7 +2,7 @@
   <img src="img./imagemdosite.png" alt="Prévia do Site Agrinho 2025: Festejando a Conexão Campo-Cidade" width="600">
 </p>
 
-<h1 align="center">🎉 Festejando a Conexão Campo-Cidade: Um Olhar Paranaense 🚜</h1>
+<h1 align="center">Festejando a Conexão Campo-Cidade: Um Olhar Paranaense</h1>
 
 ---
 
@@ -48,6 +48,14 @@ Esse projeto foi uma valiosa oportunidade para aplicar e aprimorar minhas habili
 * **CSS:** Estilização moderna e intuitiva, com foco na usabilidade e beleza visual.
 
 ---
+
+## Créditos e Licença
+
+### Criação de Imagens
+As imagens utilizadas neste projeto foram geradas com o auxílio de Inteligência Artificial.
+
+### Licença do Projeto
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT). Você pode encontrar mais detalhes sobre a licença clicando no link.
 
 ## Acesse o Projeto e Festeje essa Conexão!
 
