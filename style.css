@@ -458,6 +458,12 @@ a {
     text-align: center;
 }
 
+.texto-detalhe h3 {
+    margin-top: 20px;
+    color: var(--cafe);
+    text-align: center;
+}
+
 .texto-detalhe ul {
     list-style: disc inside;
     margin-left: 20px;
