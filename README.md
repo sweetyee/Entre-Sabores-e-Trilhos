@@ -51,11 +51,9 @@ Este projeto foi uma valiosa oportunidade para aplicar e aprimorar minhas habili
 
 ---
 
-## Acesse o Projeto e Celebre Conosco!
+## Acesse o Projeto e Festeje essa Conexão!
 
-Venha explorar o site e fazer parte dessa celebração da conexão campo-cidade:
-
-👉 [**Visite o Site Agrinho 2025!**](https://sweetyee.github.io/agrinho-2025/)
+👉 (https://sweetyee.github.io/agrinho-2025/)
 
 ---
 
