@@ -10,7 +10,7 @@
 
 Olá a todos!
 
-Meu nome é Camili, sou estudante do Colégio Alfredo Parodi e uma entusiasta da tecnologia e do desenvolvimento. Este site foi criado com grande dedicação para o concurso **Agrinho 2025**, com o propósito de **Festejar a Conexão Campo-Cidade no Paraná**. Afinal, a cidade pulsa com o que o campo produz, e o campo evolui com o que a cidade oferece. Com este projeto, quero inspirar a valorização mútua e a gratidão por essa parceria essencial que faz do Paraná um estado único – onde o campo e a cidade caminham juntos.
+Meu nome é Camili, sou estudante do Colégio Alfredo Parodi e uma entusiasta da tecnologia e do desenvolvimento. Esse site foi criado com grande dedicação para o concurso **Agrinho 2025**, com o propósito de **Festejar a Conexão Campo-Cidade no Paraná**. Afinal, a cidade pulsa com o que o campo produz, e o campo evolui com o que a cidade oferece. Com esse projeto, quero inspirar a valorização mútua e a gratidão por essa parceria essencial que faz do Paraná um estado único – onde o campo e a cidade caminham juntos.
 
 ---
 
@@ -34,13 +34,13 @@ Prepare-se para uma jornada interativa e repleta de descobertas que celebram a r
     As trilhas do Paraná são mais do que caminhos – são a representação viva do entrelaçar do rural com o urbano. Explore rotas icônicas como o **Pico Paraná**, **Morro do Anhangava**, **Caminho do Itupava** e o **Parque Barigui**, e veja como cada passo revela a beleza e a diversidade de um estado onde natureza e cultura caminham lado a lado.
 
 * **Jogos: Explore e Aprenda de Forma Divertida!**
-    Teste seus conhecimentos de maneira interativa e descontraída. Divirta-se com nosso **Quiz** e **Caça-Palavras**, desafios perfeitos para estimular a mente enquanto você aprende curiosidades e informações interessantes sobre a conexão campo-cidade.
+    Teste seus conhecimentos de maneira interativa e descontraída. Divirta-se com nosso **Quizz** e **Caça-Palavras**, desafios perfeitos para estimular a mente enquanto você aprende curiosidades e informações interessantes sobre a conexão campo-cidade.
 
 ---
 
 ## Detalhes do Desenvolvimento
 
-Este projeto foi uma valiosa oportunidade para aplicar e aprimorar minhas habilidades em desenvolvimento web. O site foi construído com foco em:
+Esse projeto foi uma valiosa oportunidade para aplicar e aprimorar minhas habilidades em desenvolvimento web. O site foi construído com foco em:
 
 * **Experiência Responsiva (Mobile First):** Desenvolvido para se adaptar a qualquer tela, do celular ao computador, garantindo uma navegação fluida.
 * **Acessibilidade:** Implementação de textos alternativos para imagens e outras boas práticas para garantir que o conteúdo seja acessível ao maior número de pessoas.
