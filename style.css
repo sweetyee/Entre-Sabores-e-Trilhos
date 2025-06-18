@@ -609,17 +609,33 @@ a {
     }
 }
 
-/* Media query para telas menores, como tablets e celulares */
 @media (max-width: 768px) {
-    .container-banner {
-        height: 30vh;
-    }
+  .container-banner {
+    height: 30vh;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+  }
+
+  .container-banner img {
+    height: 100%; 
+    width: auto; 
+    object-fit: contain; 
+  }
 }
 
 @media (max-width: 480px) {
-    .container-banner {
-        height: 20vh;
-        padding: 1rem;
+  .container-banner {
+    height: 20vh;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
-    }
+  .container-banner img {
+    height: 100%;
+    width: auto;
+    object-fit: contain;
+  }
 }
