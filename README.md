@@ -14,9 +14,6 @@ Meu nome é Camili, sou estudante do Colégio Alfredo Parodi e uma entusiasta da
 
 Afinal, a cidade pulsa com o que o campo produz, e o campo evolui com o que a cidade oferece. Nosso objetivo principal é **tornar essa interdependência evidente**, convidando todos a reconhecerem e celebrarem esse laço fundamental em nosso cotidiano. Com este projeto, quero inspirar a valorização mútua e a gratidão por essa parceria essencial que faz do Paraná um estado único – onde o campo e a cidade caminham juntos.
 
-### Nosso Grande Objetivo:
-* **Celebrar, conscientizar e fortalecer** a compreensão sobre a importância da relação entre o ambiente urbano e o rural no Paraná, promovendo o reconhecimento da riqueza que nasce dessa união.
-
 ---
 
 ## O que Você Descobrirá no Site?
