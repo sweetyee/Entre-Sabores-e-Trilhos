@@ -6,7 +6,7 @@
 
 ---
 
-## Sobre Este Projeto
+## Sobre Esse Projeto
 
 Olá a todos!
 
