@@ -186,19 +186,19 @@ a {
 
 
 .map {
-    display: flex; 
+    display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    padding: 20px; 
+    padding: 20px;
 }
 
 .map img {
-    border: 5px solid #8B4513; 
-    border-radius: 15px; 
-    max-width: 100%; 
-    height: auto; 
+    border: 5px solid #8B4513;
+    border-radius: 15px;
+    max-width: 100%;
+    height: auto;
     display: block;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
@@ -280,36 +280,6 @@ a {
     text-align: center;
     color: var(--verde);
 }
-
-/* --- Media Queries --- */
-
-/* For screens smaller than 1024px (e.g., tablets) */
-@media (max-width: 1024px) {
-    .products-grid .food-card {
-        flex: 1 1 calc(33.33% - 20px);
-        /* 3 columns */
-        max-width: calc(33.33% - 20px);
-    }
-}
-
-/* For screens smaller than 768px (e.g., larger phones) */
-@media (max-width: 768px) {
-    .products-grid .food-card {
-        flex: 1 1 calc(50% - 20px);
-        /* 2 columns */
-        max-width: calc(50% - 20px);
-    }
-}
-
-/* For screens smaller than 480px (e.g., most mobile phones) */
-@media (max-width: 480px) {
-    .products-grid .food-card {
-        flex: 1 1 calc(100% - 20px);
-        /* 1 column */
-        max-width: calc(100% - 20px);
-    }
-}
-
 
 .btn-saiba-mais {
     display: inline-block;
@@ -510,30 +480,26 @@ a {
     background-color: #2b96d4;
 }
 
-@media (max-width: 600px) {
-    .container-banner {
-        padding: 1rem;
-        font-size: 1.5rem;
+/* --- Media Queries --- */
 
-    }
-
-    .container-banner h1 {
-        padding: 0.5rem;
-        margin-top: 1rem;
-
-    }
-
-    .container-detalhe {
-        padding: 10px;
-    }
-
-    .texto-detalhe {
-        font-size: 1rem;
+@media (max-width: 1024px) {
+    .products-grid .food-card {
+        flex: 1 1 calc(33.33% - 20px);
+        max-width: calc(33.33% - 20px);
     }
 }
 
+@media (max-width: 768px) {
+    .products-grid .food-card {
+        flex: 1 1 calc(50% - 20px);
+        max-width: calc(50% - 20px);
+    }
 
-@media (max-width: 767px) {
+    .map {
+        padding: 10px;
+        min-height: auto;
+    }
+
     .header {
         justify-content: flex-end;
         padding-right: 1rem;
@@ -573,6 +539,8 @@ a {
         color: var(--branco);
         padding-block: 1rem;
         cursor: pointer;
+        justify-content: flex-end;
+        width: 100%;
     }
 
     .hamburger {
@@ -600,15 +568,43 @@ a {
         display: none;
     }
 
-    .label-menu {
-        display: flex;
-        align-items: center;
-        justify-content: flex-end;
-        width: 100%;
-    }
-
     .new-card {
         width: calc(50% - 20px);
     }
+}
 
+@media (max-width: 600px) {
+
+    .container-banner {
+        padding: 1rem;
+        font-size: 1.5rem;
+    }
+
+    .container-banner h1 {
+        padding: 0.5rem;
+        margin-top: 1rem;
+    }
+
+    .container-detalhe {
+        padding: 10px;
+    }
+
+    .texto-detalhe {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+
+
+    .products-grid .food-card {
+        flex: 1 1 calc(100% - 20px);
+        /* 1 coluna */
+        max-width: calc(100% - 20px);
+    }
+
+    .map {
+        padding: 5px;
+
+    }
 }
