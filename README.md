@@ -57,6 +57,8 @@ As imagens utilizadas neste projeto foram geradas com o auxílio de Inteligênci
 ### Licença do Projeto
 Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT). Você pode encontrar mais detalhes sobre a licença clicando no link.
 
+---
+
 ## Acesse o Projeto e Festeje essa Conexão!
 
 👉 (https://sweetyee.github.io/agrinho-2025/)
