@@ -1,54 +1,73 @@
-<!--Sessão do Título-->
-<h1 align="center">Olá Pessoal!!</h1>
-
-<p>
-  <em>Sou estudante do Colégio Alfredo Parodi e me chamo Camili<br>
-      Eu amo coisas relacionadas a tecnologia e fazer projetos relacionados a isso.
-  </em>
+<p align="center">
+  <img src="img./imagemdosite.png" alt="Prévia do Site Agrinho 2025: Festejando a Conexão Campo-Cidade" width="600">
 </p>
 
-<!--Sessão com informações para contato contendo link para E-mail-->
-<div>
-  <h2>Conecte-se comigo:</h2>
-
-  <p>
-    <a href="mailto:camili.aquino@escola.pr.gov.br">
-      <img align="left" alt="logo email" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="100">
-    </a>
-  </p>
-</div>
-
-<br><br><br><br>
-
-<!--Sessão contendo as ferramentas e tecnologias utilizadas nesse projeto-->
-<div>
-  <p>
-    <h2 align="left">Tecnologias e Ferramentas:</h2>
-  </p>
-  <img align="left" alt="logo HTML" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" width="100">
-  <img align="left" alt="logo CSS" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZGM5Jpbl1RAxb3fvhRfbZzN8XyOot58Yskw&s" width="100">
- 
-</div>
-
-<br><br><br><br>
-
-## Detalhes do projeto
-
-Desenvolvi esse site como uma forma de levar conhecimento para outras pessoas, enquanto aprimoro minhas habilidades em HTML e CSS. Nele, utilizei os cohecimentos que venho aprendendo, como responsividade, mobile first e inclusão de textos alternativos para acessibilidade. O site foi criado com o propósito de contribuir com o projeto agrinho/2025 e o objetivo do projeto é deixer evidente a conexão direta que nossa cidade tem com o campo, para celebrar essa conexão precisamos primeiro que as pessoas consigam reconhecer ela. Consequentemente, a sociedade irá celebrar esse laço que é fundamental na nossa vida. 
-<br><br>
-O site é dividido em algumas partes, sendo elas: Alguns produtos produzidos no Paraná, A história da Ferrovia Paranaguá, comidas típicas do Paraná e alguns jogos para se divertir enquanto aprende.
-<br><br><br>
-
-## Link do projeto 
-https://sweetyee.github.io/agrinho-2025/
-
-<div>
- <img align="left" alt="imagem do site desenvolvido" src="img./imagemdosite.png" width="500">
-</div>
-
-<br><br><br><br><br><br><br><br><br><br><br>
+<h1 align="center">🎉 Festejando a Conexão Campo-Cidade: Um Olhar Paranaense 🚜</h1>
 
 ---
 
-<p align="center">🏆<strong>#Agrinho2025</strong>🏆</p>
+## Sobre Este Projeto
 
+Olá a todos!
+
+Meu nome é Camili, sou estudante do Colégio Alfredo Parodi e uma entusiasta da tecnologia e do desenvolvimento. Este site foi criado com grande dedicação para o concurso **Agrinho 2025**, com o propósito de **festejar e ressaltar a inseparável e vital conexão entre nossa cidade e o campo no Paraná**.
+
+Afinal, a cidade pulsa com o que o campo produz, e o campo evolui com o que a cidade oferece. Nosso objetivo principal é **tornar essa interdependência evidente**, convidando todos a reconhecerem e celebrarem esse laço fundamental em nosso cotidiano. Com este projeto, quero inspirar a valorização mútua e a gratidão por essa parceria essencial que faz do Paraná um estado único – onde o campo e a cidade caminham juntos.
+
+### Nosso Grande Objetivo:
+* **Celebrar, conscientizar e fortalecer** a compreensão sobre a importância da relação entre o ambiente urbano e o rural no Paraná, promovendo o reconhecimento da riqueza que nasce dessa união.
+
+---
+
+## O que Você Descobrirá no Site?
+
+Prepare-se para uma jornada interativa e repleta de descobertas que celebram a rica relação entre o campo e a cidade no Paraná:
+
+* **Página Inicial: Entre Trilhos, Sabores e Colheitas**
+    A porta de entrada para o nosso universo, onde celebramos a relação que pulsa no cotidiano paranaense — do alimento que nasce do cuidado no interior e chega às feiras urbanas, às rotas que unem pessoas e histórias. Uma imersão inicial nos laços que fazem do Paraná um estado forte e diverso.
+
+* **Ferrovia Paranaguá: Trilhos que Unem o Paraná**
+    Mais que um trajeto, um símbolo histórico da união entre o litoral, o campo e os centros urbanos. Explore a história dessa ferrovia centenária que transformou a economia do estado, facilitando o escoamento da produção agrícola e fortalecendo o intercâmbio cultural.
+
+* **Produtos do Paraná: Tesouros da Nossa Terra**
+    Descubra a abundância que brota do solo paranaense! Conheça os diversos produtos agrícolas que abastecem nossas mesas, movimentam feiras e atravessam o país, mantendo viva a conexão entre o rural e o urbano. Cada produto é uma história de cultivo, sabor e sustentabilidade, com detalhes sobre sua produção e impacto.
+
+* **Receitas Típicas: Tradição que se Serve à Mesa**
+    Em cada canto do Paraná, um tempero que conta histórias! Explore a culinária paranaense e suas receitas que carregam um pedaço da cultura local. Do famoso Barreado aos doces caseiros, descubra como ingredientes da terra se transformam em pratos cheios de afeto e significado.
+
+* **Trilhas do Paraná: Fios que Tecem a Conexão**
+    As trilhas do Paraná são mais do que caminhos – são a representação viva do entrelaçar do rural com o urbano. Explore rotas icônicas como o **Pico Paraná**, **Morro do Anhangava**, **Caminho do Itupava** e o **Parque Barigui**, e veja como cada passo revela a beleza e a diversidade de um estado onde natureza e cultura caminham lado a lado.
+
+* **Jogos: Explore e Aprenda de Forma Divertida!**
+    Teste seus conhecimentos de maneira interativa e descontraída. Divirta-se com nosso **Quiz** e **Caça-Palavras**, desafios perfeitos para estimular a mente enquanto você aprende curiosidades e informações interessantes sobre a conexão campo-cidade.
+
+---
+
+## Detalhes do Desenvolvimento
+
+Este projeto foi uma valiosa oportunidade para aplicar e aprimorar minhas habilidades em desenvolvimento web. O site foi construído com foco em:
+
+* **Experiência Responsiva (Mobile First):** Desenvolvido para se adaptar a qualquer tela, do celular ao computador, garantindo uma navegação fluida.
+* **Acessibilidade:** Implementação de textos alternativos para imagens e outras boas práticas para garantir que o conteúdo seja acessível ao maior número de pessoas.
+* **HTML:** Estrutura semântica e organizada, garantindo a base robusta do conteúdo.
+* **CSS:** Estilização moderna e intuitiva, com foco na usabilidade e beleza visual.
+
+---
+
+## Acesse o Projeto e Celebre Conosco!
+
+Venha explorar o site e fazer parte dessa celebração da conexão campo-cidade:
+
+👉 [**Visite o Site Agrinho 2025!**](https://sweetyee.github.io/agrinho-2025/)
+
+---
+
+## Vamos Conectar?
+
+Adoraria receber seu feedback e me conectar com outros entusiastas da tecnologia e da valorização do campo!
+
+* **E-mail:** [camili.aquino@escola.pr.gov.br](mailto:camili.aquino@escola.pr.gov.br)
+
+---
+
+<p align="center">🏆<strong>#Agrinho2025 #FestejandoAConexaoCampoCidade</strong>🏆</p>
