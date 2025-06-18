@@ -61,7 +61,7 @@ Este projeto está licenciado sob a [MIT License](https://opensource.org/license
 
 ## Acesse o Projeto e Festeje essa Conexão!
 
-👉 ([https://sweetyee.github.io/agrinho-2025/](https://sweetyee.github.io/Sabores-e-Trilhos/))
+👉 ([https://sweetyee.github.io/Entre-Sabores-e-Trilhos/](https://sweetyee.github.io/Entre-Sabores-e-Trilhos/))
 
 ---
 
