@@ -34,7 +34,7 @@ Prepare-se para uma jornada interativa e repleta de descobertas que celebram a r
     As trilhas do Paraná são mais do que caminhos – são a representação viva do entrelaçar do rural com o urbano. Explore rotas icônicas como o **Pico Paraná**, **Morro do Anhangava**, **Caminho do Itupava** e o **Parque Barigui**, e veja como cada passo revela a beleza e a diversidade de um estado onde natureza e cultura caminham lado a lado.
 
 * **Jogos: Explore e Aprenda de Forma Divertida!**
-    Teste seus conhecimentos de maneira interativa e descontraída. Divirta-se com nosso **Quizz** e **Caça-Palavras**, desafios perfeitos para estimular a mente enquanto você aprende curiosidades e informações interessantes sobre a conexão campo-cidade.
+    Teste seus conhecimentos de maneira interativa e descontraída. Divirta-se com nosso **Quiz** e **Caça-Palavras**, desafios perfeitos para estimular a mente enquanto você aprende curiosidades e informações interessantes sobre a conexão campo-cidade.
 
 ---
 
