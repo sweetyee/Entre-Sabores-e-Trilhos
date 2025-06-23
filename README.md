@@ -68,7 +68,7 @@ Este projeto está licenciado sob a [MIT License](https://opensource.org/license
 
 Adoraria receber seu feedback e me conectar com outros entusiastas da tecnologia e da valorização do campo!
 
-* **E-mail:** ([camili.aquino@escola.pr.gov.br](mailto:camili.aquino@escola.pr.gov.br))
+* **E-mail:** [camili.aquino@escola.pr.gov.br](mailto:camili.aquino@escola.pr.gov.br)
 ---
 
 <p align="center"><strong>#agrinho #FestejandoAConexaoCampoCidade</strong></p>
