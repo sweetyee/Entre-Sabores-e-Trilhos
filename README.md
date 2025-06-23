@@ -31,7 +31,7 @@ Prepare-se para uma jornada interativa e repleta de descobertas que celebram a r
     Em cada canto do Paraná, um tempero que conta histórias! Explore a culinária paranaense e suas receitas que carregam um pedaço da cultura local. Do famoso Barreado aos doces caseiros, descubra como ingredientes da terra se transformam em pratos cheios de afeto e significado.
 
 * **Trilhas do Paraná: Fios que Tecem a Conexão**
-    As trilhas do Paraná são mais do que caminhos – são a representação viva do entrelaçar do rural com o urbano. Explore rotas icônicas como o **Pico Paraná**, **Morro do Anhangava**, **Caminho do Itupava** e o **Parque Barigui**, e veja como cada passo revela a beleza e a diversidade de um estado onde natureza e cultura caminham lado a lado.
+    As trilhas do Paraná são mais do que caminhos – são a representação viva do entrelaçar do rural com o urbano. Explore rotas icônicas como o **Pico Paraná**, **Morro do Anhangava**, **Caminho do Itupava** e o **Parque Barigui**, veja como cada passo revela a beleza e a diversidade de um estado onde natureza e cultura caminham lado a lado e confira algumas dicas para fazer trilhas com segurança!
 
 * **Jogos: Explore e Aprenda de Forma Divertida!**
     Teste seus conhecimentos de maneira interativa e descontraída. Divirta-se com nosso **Quiz** e **Caça-Palavras**, desafios perfeitos para estimular a mente enquanto você aprende curiosidades e informações interessantes sobre a conexão campo-cidade.
@@ -52,7 +52,10 @@ Esse projeto foi uma valiosa oportunidade para aplicar e aprimorar minhas habili
 ## Créditos e Licença
 
 ### Criação de Imagens
-As imagens utilizadas neste projeto foram geradas com o auxílio de Inteligência Artificial.
+As imagens utilizadas neste projeto foram geradas com a Inteligência Artificial.
+
+### Criação do Vídeo
+O Vídeo foi gerado totalmente com a Inteligência Artificial.
 
 ### Licença do Projeto
 Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT). Você pode encontrar mais detalhes sobre a licença clicando no link.
@@ -64,11 +67,9 @@ Este projeto está licenciado sob a [MIT License](https://opensource.org/license
 👉 ([https://sweetyee.github.io/Entre-Sabores-e-Trilhos/](https://sweetyee.github.io/Entre-Sabores-e-Trilhos/))
 
 ---
-## 📬 Vamos Conectar?
 
-Adoraria receber seu feedback e me conectar com outros entusiastas da tecnologia e da valorização do campo!
+## Adoraria receber seu feedback e me conectar com outros entusiastas da tecnologia e da valorização do campo!
 
-* **E-mail:** [camili.aquino@escola.pr.gov.br](mailto:camili.aquino@escola.pr.gov.br)
 ---
 
 <p align="center"><strong>#agrinho #FestejandoAConexaoCampoCidade</strong></p>
